@@ -8,8 +8,11 @@ Select a song with the laser pointer (menu key), trigger to confirm. To start th
 
 Guide for Unity:
 To run the Unity project with all effects you will need to get the following free plugins from the Asset store:
+
 -fxfire
+
 -sky5x
+
 -Simple Particle Effects
 
 
