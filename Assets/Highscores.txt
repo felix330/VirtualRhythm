@@ -1,0 +1,1 @@
+{"highScores":[{"beatmapID":280624,"scores":[53,52,51,55]}]}
