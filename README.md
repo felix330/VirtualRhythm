@@ -1,6 +1,6 @@
 # VirtualRhythm
 
-A Rhythm game for HTC Vive using OSU beatmaps. It currently only has a single gamemode which is similar to Audioshield.
+A rhythm game for HTC Vive using OSU beatmaps. It currently only has a single gamemode which is similar to Audioshield.
 
 Guide to playing:
 Place Folders with .osu files in the "Songs" Directory. Osz-files have to be unpacked first, for example with 7zip. Only Taiko-maps work currently.
